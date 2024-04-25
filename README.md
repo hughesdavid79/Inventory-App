@@ -65,53 +65,6 @@ The design focuses on user-friendliness with clear navigation and interactive el
 
 Regular testing with Android Emulator ensures all functionalities work seamlessly both individually and together. This includes scenarios where users grant or deny permissions for SMS notifications.
 
-## App Launch Plan (Outline)
-
-### Market Preparation
-
-- **App Description and Icon:** The app will be presented in the app store with a clear, concise description and a professionally designed icon that reflects its functionality and appeal.
-- **Android Compatibility:** Ensures compatibility with multiple Android versions, including the latest, to maximize user reach.
-- **Permissions:** Minimal permissions required, strictly limited to those necessary for app functionality (e.g., internet access, SMS).
-
-### Monetization Strategy
-
-- **Freemium Model:** Basic functionalities for free with premium features available through subscription to cater to a broader user base and ensure steady revenue.
-
-## Testing and Validation
-
-Rigorous testing using Android Emulator has been conducted to ensure functionality, with special attention to user permissions and error handling.
-
-## Challenges and Innovations
-
-Integrating a flexible yet secure role-based access system was a significant challenge, met through innovative use of Android's security features and custom middleware.
-
-## Conclusion
-
-This README outlines the comprehensive development and planned launch of the Inventory Management App, designed to meet the specific needs of modern businesses in managing their inventories efficiently.
-
-Thank you for considering the Inventory Management App for your business needs.
-
-
-### Testing
-
-Regular testing with Android Emulator ensures all functionalities work seamlessly both individually and together. This includes scenarios where users grant or deny permissions for SMS notifications.
-
-## App Launch Plan (Outline)
-
-### Market Preparation
-
-- **App Description and Icon:** The app will be presented in the app store with a clear, concise description and a professionally designed icon that reflects its functionality and appeal.
-- **Android Compatibility:** Ensures compatibility with multiple Android versions, including the latest, to maximize user reach.
-- **Permissions:** Minimal permissions required, strictly limited to those necessary for app functionality (e.g., internet access, SMS).
-
-### Monetization Strategy
-
-- **Freemium Model:** Basic functionalities for free with premium features available through subscription to cater to a broader user base and ensure steady revenue.
-
-## Testing and Validation
-
-Rigorous testing using Android Emulator has been conducted to ensure functionality, with special attention to user permissions and error handling.
-
 ## Challenges and Innovations
 
 Integrating a database system that notifies the user upon reaching a low stock item in the databse was particularly challenging.
